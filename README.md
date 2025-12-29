@@ -12,7 +12,7 @@ Otomasyondaki temel  eventler:
 
 
 Hazırlayanlar:
--Melih Biçer
--İsmail Kaan Fidan
--Yasin Özer
--Hasan Nasrullah Birinci
+-Melih Biçer : 243405027
+-İsmail Kaan Fidan : 243405048
+-Yasin Özer : 243405079
+-Hasan Nasrullah Birinci :  243405031
