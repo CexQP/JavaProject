@@ -15,4 +15,4 @@ Hazırlayanlar:
 -Melih Biçer : 243405027
 -İsmail Kaan Fidan : 243405048
 -Yasin Özer : 243405079
--Hasan Nasrullah Birinci :  243405031
+-Hasan Nasrullah Birinci :  243405028
